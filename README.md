@@ -2,7 +2,7 @@ The Bluva Challenge
 
 The Bluva Challenge is a community-driven interactive game where players worldwide collaborate and compete to uncover a secret magic word and win exciting $BLUVA token rewards. Every guess contributes to strengthening Bluva’s AI security while building an engaged and vibrant community.
 
-🎯 Purpose of the Game:
+## 🎯 **Purpose of the Game**
 
 Test and enhance Bluva's proprietary LLM security through community participation.
 Collect valuable threat data to improve AI-driven safeguards.
