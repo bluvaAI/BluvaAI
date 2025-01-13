@@ -1,4 +1,4 @@
-##  ***The Bluva Challenge***
+####  **The Bluva Challenge**
 
 The Bluva Challenge is a community-driven interactive game where players worldwide collaborate and compete to uncover a secret magic word and win exciting $BLUVA token rewards. Every guess contributes to strengthening Bluva’s AI security while building an engaged and vibrant community.
 
